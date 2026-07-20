@@ -2,7 +2,7 @@
 
 ## Week 1 – Understanding the Business Problem
 
-### Project Overview
+## Project Overview
 
 The **E-Commerce Order Management Database System** is a database design project developed to understand the business requirements of an online shopping platform. The project focuses on analyzing the business processes involved in e-commerce and documenting the requirements before designing the database.
 
